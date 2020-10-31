@@ -1,0 +1,13 @@
+C:\Users\Fardin\source\repos\labtask3\labtask3\obj\Debug\netcoreapp3.1\labtask3.csprojAssemblyReference.cache
+C:\Users\Fardin\source\repos\labtask3\labtask3\obj\Debug\netcoreapp3.1\labtask3.AssemblyInfoInputs.cache
+C:\Users\Fardin\source\repos\labtask3\labtask3\obj\Debug\netcoreapp3.1\labtask3.AssemblyInfo.cs
+C:\Users\Fardin\source\repos\labtask3\labtask3\obj\Debug\netcoreapp3.1\labtask3.csproj.CoreCompileInputs.cache
+C:\Users\Fardin\source\repos\labtask3\labtask3\bin\Debug\netcoreapp3.1\labtask3.exe
+C:\Users\Fardin\source\repos\labtask3\labtask3\bin\Debug\netcoreapp3.1\labtask3.deps.json
+C:\Users\Fardin\source\repos\labtask3\labtask3\bin\Debug\netcoreapp3.1\labtask3.runtimeconfig.json
+C:\Users\Fardin\source\repos\labtask3\labtask3\bin\Debug\netcoreapp3.1\labtask3.runtimeconfig.dev.json
+C:\Users\Fardin\source\repos\labtask3\labtask3\bin\Debug\netcoreapp3.1\labtask3.dll
+C:\Users\Fardin\source\repos\labtask3\labtask3\bin\Debug\netcoreapp3.1\labtask3.pdb
+C:\Users\Fardin\source\repos\labtask3\labtask3\obj\Debug\netcoreapp3.1\labtask3.dll
+C:\Users\Fardin\source\repos\labtask3\labtask3\obj\Debug\netcoreapp3.1\labtask3.pdb
+C:\Users\Fardin\source\repos\labtask3\labtask3\obj\Debug\netcoreapp3.1\labtask3.genruntimeconfig.cache

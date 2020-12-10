@@ -1,0 +1,13 @@
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\bin\Debug\netcoreapp3.1\labTaskInterface.exe
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\bin\Debug\netcoreapp3.1\labTaskInterface.deps.json
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\bin\Debug\netcoreapp3.1\labTaskInterface.runtimeconfig.json
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\bin\Debug\netcoreapp3.1\labTaskInterface.runtimeconfig.dev.json
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\bin\Debug\netcoreapp3.1\labTaskInterface.dll
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\bin\Debug\netcoreapp3.1\labTaskInterface.pdb
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\obj\Debug\netcoreapp3.1\labTaskInterface.csprojAssemblyReference.cache
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\obj\Debug\netcoreapp3.1\labTaskInterface.AssemblyInfoInputs.cache
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\obj\Debug\netcoreapp3.1\labTaskInterface.AssemblyInfo.cs
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\obj\Debug\netcoreapp3.1\labTaskInterface.csproj.CoreCompileInputs.cache
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\obj\Debug\netcoreapp3.1\labTaskInterface.dll
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\obj\Debug\netcoreapp3.1\labTaskInterface.pdb
+C:\Users\Fardin\source\repos\labTaskInterface\labTaskInterface\obj\Debug\netcoreapp3.1\labTaskInterface.genruntimeconfig.cache
